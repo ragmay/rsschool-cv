@@ -1,0 +1,19 @@
+html,
+body {
+  background: #181818;
+}
+
+h1 {
+  float: center;
+}
+
+.cv {
+  width: 100%;
+  max-width: 90%;
+  background: #69b2ee;
+  margin: 1% auto;
+}
+
+.contacts {
+  float: right;
+}
